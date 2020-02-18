@@ -98,8 +98,6 @@ The following repositories contain information specific to each sustainable deve
 
 - [Climate Action](EG: --Info Link--)
 
-// EG, DB ?
-
 ## [Database Backups](#database-backups)
 
 ### [Restoring a Database using recommended database tool](#restoring-a-database-using-recommended-database-tool)
@@ -185,4 +183,4 @@ Login as a root user to MySQL via: `mysql -uroot`
 
 ## [Questions](#questions)
 
-Ask your question in the [#helpline](EG: -- Slack Link) channel on the Hackathon 2020 Slack.
+Ask your question in the [#helpline](https://charlestondig-bdi6169.slack.com/archives/CSDS4CJAG) channel on the Hackathon 2020 Slack.
