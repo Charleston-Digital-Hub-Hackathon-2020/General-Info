@@ -65,11 +65,10 @@ Your project will be judged across the following categories with the correspondi
 
 | Category       | Weight |
 | :------------- | :----: |
-| Implementation |   15   |
+| Implementation |   20   |
 | Creativity     |   10   |
-| Data           |   10   |
 | Impact         |   10   |
-| X-Factor       |   5    |
+| X-Factor       |   10   |
 
 [Complete Rubric](EG:--Rubric Link--)
 
