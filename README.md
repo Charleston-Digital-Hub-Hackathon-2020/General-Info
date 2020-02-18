@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Charleston-Digital-Hub-Hackathon-2020/General-Info/blob/master/Hackathon-2020.png?raw=true)
 
 // Notes, Docker and AWS sections
 // Using MySQL, need information from teammate
