@@ -72,15 +72,6 @@ Your project will be judged across the following categories with the correspondi
 
 [Complete Rubric](EG:--Rubric Link--)
 
-Four rooms will be assigned for judging (see map to find rooms):
-
-|     Room      |               Goal               |
-| :-----------: | :------------------------------: |
-| Peanut Butter |        Quality Education         |
-|   Dev/Null    |    Affordable & Clean Energy     |
-|   Situation   |          Climate Action          |
-|     Eggs      | Sustainable Cities & Communities |
-
 Outside of each room will be a schedule of when each team is assigned for judging. Generally, the number postfixed to your team name represents where your slot is in the schedule.
 
 Teams will have 3 minutes to demo working code, followed by a 2 minute Q&A session with the judges.
