@@ -50,7 +50,7 @@ Charleston Digital Hub - 2387 Clements Ferry Road, Charleston, SC 29492
 
 ## [Map](#map)
 
-![](EG: -- Link to map)
+![](https://github.com/Charleston-Digital-Hub-Hackathon-2020/General-Info/blob/master/BAH_Hackathon_Map.png?raw=true)
 
 ## [Wifi Network](#wifi-network)
 
