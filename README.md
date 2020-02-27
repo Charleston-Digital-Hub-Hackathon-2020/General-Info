@@ -54,8 +54,8 @@ Charleston Digital Hub - 2387 Clements Ferry Road, Charleston, SC 29492
 
 ## [Wifi Network](#wifi-network)
 
-SSID: `hackathon2020`
-Password: `EG:--PASSWORD--`
+SSID: `HackAThon2020`
+Password: `newdecadenewsolutions`
 
 # [Project Info](#project-info)
 
